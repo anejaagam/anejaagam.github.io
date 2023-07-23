@@ -1,0 +1,57 @@
+body {
+    background: url('galaxy.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Courier New', monospace;
+    color: #00FF00 !important;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    color: #FFFFFF;
+}
+
+a {
+    color: #00FF00;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#landing {
+   
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* 
+#about-me {
+    background: radial-gradient(circle, #1d4871 0%, #367fac 100%);  / Earth-like gradient: From deep ocean blue to light sky blue /
+}
+
+#skills {
+    background-color: #b3440d;  / Mars-like color: Rusty Red /
+}
+
+#mech-projects {
+    background: radial-gradient(circle, #e5d0a6 0%, #a67d5b 100%);  / Jupiter-like gradient: From light sandy color to deep brown /
+}
+
+#software-projects {
+    background-color: #00b8e6;  / Neptune-like color: Deep sea blue /
+}
+
+#work-experience {
+    background: radial-gradient(circle, #000000 0%, #434343 20%, #585858 40%, #ffffff 75%, #ffffff 100%); / Galaxy-like gradient: From black to white /
+}
+
+
+#contact-me {
+    background-color: #4682B4;  /* SteelBlue for Neptune /
+}
+ */
